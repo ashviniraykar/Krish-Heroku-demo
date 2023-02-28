@@ -1,1 +1,1 @@
-# Krish-Heroku-demo
+# Heroku-Demo
